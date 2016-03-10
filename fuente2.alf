@@ -1,0 +1,34 @@
+main{
+
+    int x, r;
+
+    function int fibonacci (int num1){
+    
+        int y;
+        
+        printf x;
+        
+        x += 2;
+        
+        y=2;
+        
+        printf y;
+        
+        y += 2;
+        
+        printf y;
+        
+        return 1;
+    }
+    
+    scanf x;
+    
+    printf x;
+    
+    x += 2;
+    
+    r=fibonacci(x);
+    
+    printf x;
+
+}
