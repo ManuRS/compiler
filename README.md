@@ -1,6 +1,6 @@
 # compiler
 
-Little pseude-C compiler
+Little pseudo-C compiler
 
 Alfa language
 
